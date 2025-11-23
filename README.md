@@ -1,7 +1,5 @@
 # 🌟 query routing and query decomposition
-<a name="top"></a>
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen) ![Last Updated](https://img.shields.io/badge/Last%20Updated-Nov%2023,%202025-blue)
+<a name="top"></a> ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen) ![Last Updated](https://img.shields.io/badge/Last%20Updated-Nov%2023,%202025-blue)
 
 
 *I hope to maintain a curated query routing and query decomposition Paper Repository collecting recent high-quality research in rag or related topic. It aims to help researchers and practitioners stay updated with cutting-edge trends.*
