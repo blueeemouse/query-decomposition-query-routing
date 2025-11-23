@@ -1,4 +1,4 @@
-# 🌟 query routing
+# 🌟 query routing and query decomposition
 <a name="top"></a>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen) ![Last Updated](https://img.shields.io/badge/Last%20Updated-Nov%2023,%202025-blue)
