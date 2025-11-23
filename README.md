@@ -7,8 +7,7 @@
 # query routing
 ## 🗓️ 2025
 
-- [Optimistic Query Routing in Clustering-based Approximate Maximum Inner Product Search](https://arxiv.org/abs/2405.12207) (2025-10-17)(NIPS 2024)
-  *LLM-guided annotation + ensemble voting to give explainable, fine-grained fault localization for student programming tasks.*  
+- [Optimistic Query Routing in Clustering-based Approximate Maximum Inner Product Search](https://arxiv.org/abs/2405.12207) (2025-10-17)(NIPS 2024)<br>*LLM-guided annotation + ensemble voting to give explainable, fine-grained fault localization for student programming tasks.*  
 
 - [BEST-Route: Adaptive LLM Routing with Test-Time Optimal Compute](https://arxiv.org/abs/2506.22716)(2025-06-28)(ICML 2025)
 
