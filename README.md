@@ -2,7 +2,7 @@
 <a name="top"></a> ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen) ![Last Updated](https://img.shields.io/badge/Last%20Updated-Nov%2023,%202025-blue)
 
 
-*I hope to maintain a curated query routing and query decomposition Paper Repository collecting recent high-quality research in rag or related topic. It aims to help researchers and practitioners stay updated with cutting-edge trends.*
+*Hope to maintain a curated query routing and query decomposition Paper Repository collecting recent high-quality research in rag or related topic. It aims to help researchers and practitioners stay updated with cutting-edge trends.*
 
 # query routing
 ## 🗓️ 2025
@@ -17,7 +17,7 @@
 
 - [RouteLLM: Learning to Route LLMs with Preference Data](https://arxiv.org/abs/2406.18665)(2025-02-23)(ICLR 2025)<br>*Chatbot-Arena human-preference bootstrapping*
 ## 🗓️ 2024
-- [RouterDC: Query-Based Router by Dual Contrastive Learning for Assembling Large Language Models](https://arxiv.org/abs/2409.19886)(2024-09-30)(NIPS 2024)
+- [RouterDC: Query-Based Router by Dual Contrastive Learning for Assembling Large Language Models](https://arxiv.org/abs/2409.19886)(2024-09-30)(NIPS 2024)<br>*Dual-contrastive query-LLM embedding alignment + sample clustering for routing-assembled LLM inference*
 
 - [Query Routing for Homogeneous Tools: An Instantiation in the RAG Scenario](https://arxiv.org/abs/2406.12429) (2024-09-30)(EMNLP 2024 findings)<br>*Query-performance forecasting + ILP-based batch assignment for cost-performance optimal routing of homogeneous tools in RAG*
 
@@ -25,13 +25,13 @@
 
 - [Optimistic Query Routing in Clustering-based Approximate Maximum Inner Product Search](https://arxiv.org/abs/2405.12207) (2024-05-20)(NIPS 2024)
 
-- [Hybrid LLM: Cost-Efficient and Quality-Aware Query Routing](https://arxiv.org/abs/2404.14618)(2024-04-22)(ICLR 2024)<br>*BART-scored soft-label routing(classical)*
+- [Hybrid LLM: Cost-Efficient and Quality-Aware Query Routing](https://arxiv.org/abs/2404.14618)(2024-04-22)(ICLR 2024)<br>*BART-scored soft-label routing (classical)*
 
 # query decomposition
 ## 🗓️ 2025
 - [Question Decomposition for Retrieval-Augmented Generation](https://arxiv.org/abs/2507.00355)(2025-07-01)ACL 2025 Workshop)<br>*Decompose the query(using prompt) to expand retrieval results*
 
-- [POQD: Performance-Oriented Query Decomposer for Multi-vector retrieval](https://arxiv.org/abs/2505.19189)(2025-06-01)(ICML 2025)<br>*Optimize the prompt for decomposing query by a llm(zero-order optimization)*
+- [POQD: Performance-Oriented Query Decomposer for Multi-vector retrieval](https://arxiv.org/abs/2505.19189)(2025-06-01)(ICML 2025)<br>*Optimize the prompt for decomposing query by a llm (zero-order optimization)*
 
 ## 🗓️ 2024
 - [Decomposition Dilemmas: Does Claim Decomposition Boost or Burden Fact-Checking Performance?](https://arxiv.org/abs/2411.02400)(2024-10-17)(NAACL 2025)
