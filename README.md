@@ -7,16 +7,22 @@
 # query routing
 ## 🗓️ 2025
 
-- [Optimistic Query Routing in Clustering-based Approximate Maximum Inner Product Search](https://arxiv.org/abs/2405.12207) (2025-10-17)(NIPS 2024)<br>*LLM-guided annotation + ensemble voting to give explainable, fine-grained fault localization for student programming tasks.*  
+- [Firewall Routing: Blocking Leads to Better Hybrid Inference for LLMs](https://aclanthology.org/2025.emnlp-main.331/) (2025-11)(EMNLP 2025)<br>*Multi-sample pass rates + soft-label + cope with long-tail*  
 
-- [BEST-Route: Adaptive LLM Routing with Test-Time Optimal Compute](https://arxiv.org/abs/2506.22716)(2025-06-28)(ICML 2025)
+- [BEST-Route: Adaptive LLM Routing with Test-Time Optimal Compute](https://arxiv.org/abs/2506.22716)(2025-06-28)(ICML 2025)<br>*Multi-head match-probability routing + test-time optimal compute*
 
-- [Learning to Route LLMs with Confidence Tokens](https://arxiv.org/abs/2410.13284)(2025-06-19)(ICML 2025)
+- [Learning to Route LLMs with Confidence Tokens](https://arxiv.org/abs/2410.13284)(2025-06-19)(ICML 2025)<br>*Fine-tune llm to grasp when to generate two kinds of confidence token + using internal representation to construct confidence to guide routing*
 
 - [A Unified Approach to Routing and Cascading for LLMs](https://arxiv.org/abs/2410.10347)(2025-05-22)(ICML 2025)
 
-- [RouteLLM: Learning to Route LLMs with Preference Data](https://arxiv.org/abs/2406.18665)(2025-02-23)(ICLR 2025)
+- [RouteLLM: Learning to Route LLMs with Preference Data](https://arxiv.org/abs/2406.18665)(2025-02-23)(ICLR 2025)<br>*Chatbot-Arena human-preference bootstrapping*
 ## 🗓️ 2024
+- [Query Routing for Homogeneous Tools: An Instantiation in the RAG Scenario](https://arxiv.org/abs/2406.12429) (2024-05-20)(EMNLP 2024 findings)<br>*Query-performance forecasting + ILP-based batch assignment for cost-performance optimal routing of homogeneous tools in RAG*
+
+- [Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity](https://arxiv.org/abs/2403.14403) (2024-06)(NAACL 2024)
+
+- [Optimistic Query Routing in Clustering-based Approximate Maximum Inner Product Search](https://arxiv.org/abs/2405.12207) (2024-05-20)(NIPS 2024)
+
 - [Hybrid LLM: Cost-Efficient and Quality-Aware Query Routing](https://arxiv.org/abs/2404.14618)(2024-04-22)(ICLR 2024)
 
 - [RouterDC: Query-Based Router by Dual Contrastive Learning for Assembling Large Language Models](https://arxiv.org/abs/2409.19886)(2024-09-30)(NIPS 2024)
