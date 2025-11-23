@@ -2,7 +2,7 @@
 <a name="top"></a> ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen) ![Last Updated](https://img.shields.io/badge/Last%20Updated-Nov%2023,%202025-blue)
 
 
-*Hope to maintain a curated query routing and query decomposition Paper Repository collecting recent high-quality research in rag or related topic. It aims to help researchers and practitioners stay updated with cutting-edge trends.*
+*Hope to maintain a curated query routing and query decomposition paper repository collecting recent high-quality research in rag or related topics. It aims to help researchers and practitioners stay updated with cutting-edge trends.*
 
 # query routing
 ## 🗓️ 2025
