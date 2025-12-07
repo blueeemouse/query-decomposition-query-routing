@@ -8,6 +8,7 @@
 ## 🗓️ 2025
 
 - [Firewall Routing: Blocking Leads to Better Hybrid Inference for LLMs](https://aclanthology.org/2025.emnlp-main.331/) (2025-11)(EMNLP 2025)<br>*Multi-sample pass rates + soft-label + cope with long-tail*  
+- [Let the LLM Stick to Its Strengths: Learning to Route Economical LLM](https://openreview.net/forum?id=uC3DI4YPRv) (2025-10-29)(NIPS 2025)<br>*refactor llm routing as recommendation task, considering more features and extract high-order interactions*  
 
 - [BEST-Route: Adaptive LLM Routing with Test-Time Optimal Compute](https://arxiv.org/abs/2506.22716)(2025-06-28)(ICML 2025)<br>*Multi-head match-probability routing + test-time optimal compute*
 
