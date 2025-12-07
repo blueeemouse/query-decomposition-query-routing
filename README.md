@@ -8,7 +8,12 @@
 ## 🗓️ 2025
 
 - [Firewall Routing: Blocking Leads to Better Hybrid Inference for LLMs](https://aclanthology.org/2025.emnlp-main.331/) (2025-11)(EMNLP 2025)<br>*Multi-sample pass rates + soft-label + cope with long-tail*  
-- [Let the LLM Stick to Its Strengths: Learning to Route Economical LLM](https://openreview.net/forum?id=uC3DI4YPRv) (2025-10-29)(NIPS 2025)<br>*refactor llm routing as recommendation task, considering more features and extract high-order interactions*  
+
+- [Let the LLM Stick to Its Strengths: Learning to Route Economical LLM](https://openreview.net/forum?id=uC3DI4YPRv) (2025-10-29)(NIPS 2025)<br>*Refactor llm routing as recommendation task, considering more features and extract high-order interactions*  
+
+- [MESS+: Dynamically Learned Inference-Time LLM Routing in Model Zoos with Service Level Guarantees](https://arxiv.org/abs/2505.19947) (2025-10-23)(NIPS 2025)<br>*MESS+ formulate LLM routing as a cost-minimization problem subject to a long-term service-level agreement (SLA) constraint on response satisfaction*
+
+- [RAGRouter: Learning to Route Queries to Multiple Retrieval-Augmented Language Models](https://arxiv.org/abs/2505.23052) (2025-10-17)(NIPS 2025)<br>*It generalizes standard LLM routing to RAG-aware LLM routing, conditioned on both the query and its retrieved documents, under a fixed retrieval setup*
 
 - [BEST-Route: Adaptive LLM Routing with Test-Time Optimal Compute](https://arxiv.org/abs/2506.22716)(2025-06-28)(ICML 2025)<br>*Multi-head match-probability routing + test-time optimal compute*
 
